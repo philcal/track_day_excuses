@@ -156,7 +156,7 @@ class _RandomQuoteScreenState extends State<RandomQuoteScreen> {
       'The lambda sensor is faulty',
       'My secondary air system is affected by too much ram air pressure',
       'My ABS is detecting anomolies in the track surface',
-      'I\'m getting excessive lean angle errors in my CPU',
+      'I\'m getting excessive lean angle errors in my ECU',
       'The bike cuts power past 70 degrees lean angle',
       'I don\'t want my rapid cornering to trigger the tip over sensor',
       'My tire valves have not been calibrated',
